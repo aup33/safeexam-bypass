@@ -3,7 +3,7 @@
 // @name         Tampermonkey Test
 // @namespace    test
 // @version      1.0
-// @match        https://mo9710.schulportal.hessen.de/mod/quiz/*
+// @match        https://*.schulportal.hessen.de/mod/quiz/*
 // @run-at       document-idle
 // @grant        none
 // ==/UserScript==
