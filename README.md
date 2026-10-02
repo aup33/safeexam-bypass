@@ -2,6 +2,7 @@
 this Extension is a Script to make it possbile to do exams that are supposed to be Done in Safe exam browser without the Safe exam Browser 
 
 ## How to Install 
+ 1. install tempermonkey extension for [chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en), [edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) or [firefox](https://addons.mozilla.org/de/firefox/addon/tampermonkey/)
 ### a.
 Go to the Release Tab and Click on the install Button on the  resent post
 ### b. 
@@ -9,3 +10,4 @@ Go to the Release Tab and Click on the install Button on the  resent post
 2. open dev tools in browser
 
 
+Disclaimer: dont use this for real exams it is only showcase/demonstration
